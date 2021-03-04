@@ -1,0 +1,1 @@
+dsrting = input("how ")
