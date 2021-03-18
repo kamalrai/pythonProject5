@@ -5,7 +5,7 @@
 Dis=int(input("enter the distance of the university from your house: " ))
 time_taken_bus1=Dis/25
 time_taken_at_stop=2*10
-time_taken_bus2=(time_taken_bus1*60)+time_taken_at_stop
+time_taken_bus2 = (time_taken_bus1*60) + time_taken_at_stop
 print(f"The bus takes {time_taken_bus2} minutes to reach the university ")
 
 first_mile=(1/7)*60
