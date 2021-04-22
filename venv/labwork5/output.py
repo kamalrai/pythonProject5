@@ -1,0 +1,1 @@
+#15.What will be the output of the following if a =2, b=3, c =4, d = 3?a)a==bb)a!=dc)b==dd)a!=ce)a+=cf)b/=dg)b>ah)a<di)b-a ==c-bj)b >= d
